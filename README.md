@@ -2,7 +2,7 @@
 <!--                        BANNER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Siddhant%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,50:0E75B6,100:00D4FF&height=220&section=header&text=Siddhant%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20AWS%204%C3%97%20Certified&descAlignY=58&descSize=18&descColor=58C4F7&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -334,7 +334,7 @@ me.motto()
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0E75B6,100:050A12&height=120&section=footer&text=Building%20Intelligent%20Systems%20that%20Solve%20Real-World%20Problems%20%F0%9F%9A%80&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
   <br/>
   <i>⭐️ "Artificial Intelligence is not about replacing humans; it's about amplifying human potential."</i>
 </div>
