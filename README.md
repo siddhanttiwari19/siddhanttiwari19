@@ -177,7 +177,7 @@ me.motto()
 ![Amazon Nova](https://img.shields.io/badge/Amazon_Nova-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-0E75B6?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/ayushpandeyap975/MedGuardian-AI-)
 
 </td>
 <td width="50%" valign="top">
@@ -190,6 +190,7 @@ me.motto()
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=flat-square)
 
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19/Smart-AI-Complaint-System)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C896?style=flat-square)](https://smart-ai-complaint-frontend.onrender.com/)
 
 </td>
@@ -205,7 +206,7 @@ me.motto()
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19/Finance-Data-Processing-and-Access-Control-Backend)
 
 </td>
 <td width="50%" valign="top">
@@ -218,7 +219,7 @@ me.motto()
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-0E75B6?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19/Brain-Tumor-Detection-fillter-visualization-CAM-)
 
 </td>
 </tr>
@@ -232,7 +233,7 @@ me.motto()
 ![Full Stack](https://img.shields.io/badge/Full_Stack-0E75B6?style=flat-square)
 ![SIH 2024](https://img.shields.io/badge/SIH_2024-FF9900?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Shristi2609/DARSHAN_EASE)
 
 </td>
 </tr>
