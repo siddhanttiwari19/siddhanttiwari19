@@ -163,45 +163,85 @@ me.motto()
 
 ## 🚀 Featured Projects
 
-### 🏥 MedGuardian AI
-> **Tech Stack:** `Python` `Amazon Bedrock` `Amazon Nova`
+<div align="center">
 
-An **Agentic AI-powered healthcare assistant** that analyzes patient history, previous diseases, and symptoms to generate personalized health insights, preventive recommendations, and risk assessments using AWS Generative AI services.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Features:**
-- 🔍 AI-powered symptom analysis
-- 💊 Personalized health recommendations
-- 📋 Historical medical data understanding
-- ⚠️ Risk prediction and prevention guidance
-- ☁️ Built using AWS Bedrock & Amazon Nova
+### 🏥 MedGuardian Agentic AI
+> AI-powered healthcare assistant that analyzes patient history and symptoms to generate personalized health insights, risk assessments, and preventive recommendations using AWS Bedrock.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Nova](https://img.shields.io/badge/Amazon_Nova-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0E75B6?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Smart AI Complaint System
-> **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `OpenRouter`
+> AI-powered complaint management platform with NLP-based categorization, sentiment detection, automated ticket routing, intelligent response generation, and real-time tracking.
 
-An **AI-powered complaint management platform** that automatically categorizes complaints, detects sentiment, assigns priorities, generates responses, and tracks status in real time.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=flat-square)
 
-**Key Features:**
-- 🧠 NLP-based complaint analysis & sentiment detection
-- 🎫 Automated ticket routing & intelligent response generation
-- 📡 Real-time status tracking
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C896?style=flat-square)](https://smart-ai-complaint-frontend.onrender.com/)
 
-🌐 **Live Demo:** [smart-ai-complaint-frontend.onrender.com](https://smart-ai-complaint-frontend.onrender.com/)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Finance Backend (RBAC)
+> Scalable financial data processing backend with role-based access control, secure authentication, dashboard analytics, Swagger API documentation, and Dockerized deployment.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Brain Tumor Detection
+> Deep learning model for automated brain tumor detection from MRI scans using CNN architecture and OpenCV for image preprocessing and classification.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-0E75B6?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+### 🕌 Darshan Ease
+> Smart temple management and darshan slot booking application designed to streamline devotee experiences with digital queue management and real-time updates.
+
+![Full Stack](https://img.shields.io/badge/Full_Stack-0E75B6?style=flat-square)
+![SIH 2024](https://img.shields.io/badge/SIH_2024-FF9900?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 💰 Finance Data Processing & Access Control Backend
-> **Tech Stack:** `Node.js` `Express.js` `Docker` `Swagger API`
-
-A **scalable financial backend** with role-based access control, secure authentication, and dashboard analytics.
-
-**Key Features:**
-- 🔐 RBAC implementation & secure authentication
-- 📊 Financial data processing & API documentation via Swagger
-- 🐳 Dockerized deployment
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  WORK EXPERIENCE                               -->
@@ -221,17 +261,19 @@ A **scalable financial backend** with role-based access control, secure authenti
 <!--                     CERTIFICATIONS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📜 Certifications
+## 📜 Certifications & Badges
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer |
-|:---|:---:|
-| AWS Certified Machine Learning Associate | Amazon Web Services |
-| AWS Certified Solutions Architect | Amazon Web Services |
-| AWS Cloud Foundations | Amazon Web Services |
-| AWS Certified AI Practitioner | Amazon Web Services |
-| MongoDB Node.js Developer Certification | MongoDB |
+| Badge | Certification | Issuer | Level |
+|-------|--------------|--------|-------|
+| 🏅 | [**AWS Machine Learning Engineer**](https://www.credly.com/badges/7e8f463b-b9af-40a2-8dee-78cee504b8ff/linked_in_profile) | Amazon Web Services | Associate |
+| 🏅 | [**AWS Solutions Architect**](https://www.credly.com/badges/de2e3a8c-234b-429b-a04b-cf5b0c3a999b/public_url) | Amazon Web Services | Associate |
+| 🏅 | [**AWS Cloud Practitioner**](https://www.credly.com/badges/ced64536-13e5-4b91-a790-5540e829dd22/linked_in_profile) | Amazon Web Services | Foundational |
+| 🏅 | [**AWS AI Practitioner**](https://www.credly.com/badges/8553e7fa-ed00-44c0-ab59-635365425536/public_url) | Amazon Web Services | Foundational |
+| 🍃 | [**MongoDB Node.js Developer**](https://learn.mongodb.com/c/0WDqPI4rROy8-41F2DVn7g) | MongoDB University | Developer Path |
+| 🍃 | [**AI for Everyone**](https://www.coursera.org/account/accomplishments/verify/1CANKXP7KV5E?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) | Coursera — Andrew Ng | Completed |
+| 🎓 | **AI, NLP, Deep Learning, ML using Python** | Infosys Springboard | Completed |
 
 </div>
 
