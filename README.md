@@ -2,7 +2,7 @@
 <!--                        BANNER                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Siddhant%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Siddhant%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <br/>
