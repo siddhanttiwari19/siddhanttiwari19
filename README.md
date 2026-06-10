@@ -60,27 +60,15 @@
 
 ## 🧬 About Me
 
-```python
-class SiddhantTiwari:
-    def __init__(self):
-        self.name            = "Siddhant Tiwari"
-        self.education       = "B.Tech CSE (AI & ML) @ KIET Deemed To Be University (2024–2028)"
-        self.location        = "Ghaziabad, Uttar Pradesh, India"
-        self.focus           = ["AI/ML Engineering", "Generative AI", "Full Stack Development"]
-        self.ai_ml_stack     = ["PyTorch", "TensorFlow", "LangChain", "CrewAI", "OpenCV", "Transformers"]
-        self.fullstack       = ["React", "Node.js", "Express.js", "MongoDB", "Flask", "Django"]
-        self.cloud           = ["AWS", "Docker", "Render"]
-        self.cp_handles      = {"LeetCode": "Siddhant_tiwari19"}
-        self.current_focus   = "LLMs, LangChain, CrewAI & AWS Generative AI Services"
-        self.next_goals      = ["RAG Systems", "Agentic AI", "MLOps", "Production-Grade AI"]
-        self.fun_fact        = "I believe AI doesn't replace humans — it amplifies human potential 🚀"
+- 🎓 B.Tech CSE (AI & ML) Student at **KIET Deemed To Be University**
+- 🤖 Passionate about **Artificial Intelligence, Generative AI, and Full-Stack Development**
+- 🌱 Currently learning **LLMs, LangChain, CrewAI, Agentic AI, and AWS Bedrock**
+- 💻 Building AI-powered applications and scalable backend systems
+- ☁️ Exploring **RAG Systems, MLOps, and Production AI Infrastructure**
+- 🏆 AWS Certified and actively participating in hackathons and competitive programming
+- 📈 Solved 300+ problems on LeetCode
+- 🚀 Always eager to learn, build, and contribute to innovative technology
 
-    def motto(self):
-        print("Building intelligent systems that solve real-world problems.")
-
-me = SiddhantTiwari()
-me.motto()
-```
 
 ---
 
