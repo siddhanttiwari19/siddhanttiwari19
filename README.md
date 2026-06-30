@@ -224,6 +224,23 @@
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Shristi2609/DARSHAN_EASE)
 
 </td>
+<td width="50%" valign="top">
+  
+ ### 🧩 Synaptic Snap
+> AI-powered hand gesture puzzle game that lets users solve image puzzles using real-time hand tracking. Built with MediaPipe and OpenCV for gesture recognition, React for the frontend, Tailwind CSS for responsive UI, and Framer Motion for smooth animations. Deployed on Render for seamless web access.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19/SYNAPTIC-SNAP)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C896?style=flat-square)](https://synaptic-snap.onrender.com)
+
+</td>
 </tr>
 </table>
 
