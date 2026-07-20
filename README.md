@@ -199,15 +199,15 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Brain Tumor Detection
-> Deep learning model for automated brain tumor detection from MRI scans using CNN architecture and OpenCV for image preprocessing and classification.
+### Smart Fitness PT 🏋️
+> Real-time AI squat form coach — built with Python, OpenCV, and MediaPipe.
+Point your webcam at yourself, and it counts your reps, scores your squat form, and speaks corrections out loud as you lift — all running locally, no internet or cloud processing required.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-0E75B6?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19/Brain-Tumor-Detection-fillter-visualization-CAM-)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/siddhanttiwari19/Smart-fitness-PT)
 
 </td>
 </tr>
